@@ -1,0 +1,94 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+
+<BGM_BGM_M5095_S0020_N_start>
+<if_DLC_plato/1>
+<then_A>
+<if_DLC_plato/2>
+<then_B>
+<if_DLC_plato/3>
+<then_C>
+
+<label_A>
+<page>
+Select a file
+<sele_D> January 30th: Physical Training
+<sele_BACK>Quit
+</page>
+
+
+<label_B>
+<page>
+Select a file
+<sele_D2> January 30th: Physical Training
+<sele_E> June 3rd: Combat Training
+<sele_BACK>Quit
+</page>
+
+
+<label_C>
+<page>
+Select a file
+<sele_D2> January 30th: Physical Training
+<sele_E2> June 3rd: Combat Training
+<sele_F> September 27th: Plato 1728 Data Disposal Report
+<sele_BACK>Quit
+</page>
+
+<label_D2>
+<page>
+
+
+
+
+
+
+
+
+****************************************************************************************************************************
+　　　　　　　　　　　　　　　　　　　　　This record is scheduled to be deleted and can no longer be accessed.  
+****************************************************************************************************************************
+</page>
+<if_DLC_plato/2>
+<then_B>
+<if_DLC_plato/3>
+<then_C>
+
+<label_E2>
+<page>
+
+
+
+
+
+
+
+
+****************************************************************************************************************************
+　 　　　　　　　　　　　　　　　　　　　　　　This record is scheduled to be deleted and can no longer be accessed.  
+****************************************************************************************************************************
+</page>
+<then_C>
+
+
+<label_D>
+<STATEON_DLC_plato/2>
+<go_END>
+
+<label_E>
+<STATEON_DLC_plato/3>
+<go_END>
+
+<label_F>
+<go_END>
+
+<label_BACK>
+<STATEOFF_DLC_plato/1>
+<STATEOFF_DLC_plato/2>
+<STATEOFF_DLC_plato/3>
+<BGM_BGM_M5095_S0020_N_exit>
+<go_END>
+
+<label_END>
+<BGM_BGM_M5095_S0020_N_end>

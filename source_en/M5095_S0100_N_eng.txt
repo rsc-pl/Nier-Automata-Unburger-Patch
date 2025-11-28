@@ -1,0 +1,14 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0100_N_start>
+<page>
+My name is Plato 1728.<bt_wait>
+I am the 1728th combat weapon.<bt_wait>
+
+I was never as smart or skilled as the others.<bt_wait>
+But if I work hard enough, everyone will surely acknowledge me.<bt_wait>
+
+That's what I believed anyway.
+</page>
+<BGM_BGM_M5095_S0100_N_end>
+

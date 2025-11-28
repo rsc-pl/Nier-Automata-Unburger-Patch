@@ -1,0 +1,18 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0200_N_start>
+<page>
+My name is Plato 1728.<bt_wait>
+I am the 1728th combat weapon.<bt_wait>
+
+I was never good at fighting.<bt_wait>
+If I raise my right arm, oil comes spilling out.<bt_wait>
+If I move my left leg, my sensors get busted.<bt_wait>
+I'm a defective product.<bt_wait>
+
+But above all else...<bt_wait>
+
+I despise violence.
+</page>
+<BGM_BGM_M5095_S0200_N_end>
+

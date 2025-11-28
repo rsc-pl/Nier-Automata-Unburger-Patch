@@ -1,0 +1,29 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0025_N_start>
+<page>
+Power Supply Confirmed<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>Activating Core Module
+<BGM_BGM_Play_Fx_HDD_1>Checking Motor Functions <BGM_BGM_Play_Fx_HDD_1>of Right Arm
+<BGM_BGM_Play_Fx_HDD_1>Checking Motor Functions <BGM_BGM_Play_Fx_HDD_1>of Left Arm
+<BGM_BGM_Play_Fx_HDD_1>Checking Motor Functions <BGM_BGM_Play_Fx_HDD_1>of Right Leg
+<BGM_BGM_Play_Fx_HDD_1>Checking Motor Functions <BGM_BGM_Play_Fx_HDD_1>of Left Leg
+<BGM_BGM_Play_Fx_HDD_1>Activating Camera Module
+<BGM_BGM_Play_Fx_HDD_1>Activating Mic Module
+<BGM_BGM_Play_Fx_HDD_2>Activating Speaker Module<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>12% deficiency found in thought circuits.<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>This is within acceptable values. <BGM_BGM_Play_Fx_HDD_1>Activation approved.<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_2>My name is Plato.<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>Plato 1728.<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_1>I am the 1728th <BGM_BGM_Play_Fx_HDD_1>combat weapon.
+</page>
+<BGM_BGM_M5095_S0025_N_end>
+
+
+
+
+

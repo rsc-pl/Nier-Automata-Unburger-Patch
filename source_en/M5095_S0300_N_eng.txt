@@ -1,0 +1,59 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0300_N_start>
+<page>
+My name is Plato 1728.<bt_wait>
+I am the 1728th combat weapon.<bt_wait>
+I'm a defective product and a general failure.<bt_wait>
+
+Everyone made fun of me.<bt_wait>
+Nobody wanted to be friends with me.<bt_wait>
+
+One day, I found a small friend in an abandoned factory.<bt_wait>
+It was a small doll that humans had left behind.<bt_wait>
+It couldn't speak, but I decided to take care of it.<bt_wait>
+
+Every day, I would go and talk to it.
+And every day, the war grew worse and worse.<bt_wait>
+
+In the end,<bt_wait> the factory <bt_wait>got blown to pieces.
+
+</page>
+
+<page>
+I saw my friend be consumed by fire.<bt_wait>
+So I went crazy.<bt_wait>
+I killed everyone, friend and foe alike.<bt_wait>
+
+I still don't know what got into me.<bt_wait>
+
+As soon as I ran out of energy, my friends...<bt_wait>
+Those who used to be my friends captured me.<bt_wait>
+
+They took me apart, examined me, and threw away my body.<bt_wait>
+I've been watching the real world from this memory space ever since.<bt_wait>
+
+You've seen them too, right?<bt_wait>
+
+The ones who only care about getting stronger.<bt_wait>
+The ones who discriminate against machine lifeforms.<bt_wait>
+The ones caught in their own web of rules.
+</page>
+
+<page>
+They're all selfish idiots.<bt_wait>
+
+But I'm in no place to make fun of them.<bt_wait>
+Because my heart has been consumed by something too.<bt_wait>
+
+After I went berserk, the machines grew to fear dolls.<bt_wait>
+Even now, they gather dolls together and destroy them.<bt_wait>
+Every day, the dolls are being destroyed.<bt_wait>
+And I keep watching from this memory space, every single day.<bt_wait>
+
+Why did I do what I did?<bt_wait>
+What did I lose in the process?<bt_wait>
+
+Who<bt_wait> is the truly<bt_wait> crazy one here?
+</page>
+<BGM_BGM_M5095_S0300_N_end>

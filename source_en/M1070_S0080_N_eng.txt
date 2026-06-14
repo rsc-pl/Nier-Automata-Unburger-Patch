@@ -7,7 +7,7 @@ Novel Game (80 x 11)
 
 
 
-“I announce...to all...androids...”
+“To you... androids... I declare...”
 
 
 
@@ -17,22 +17,22 @@ Novel Game (80 x 11)
 
 
 <page>
-The words shimmer into focus. The voice grows clear in my mind.<bt_wait><BGM_BGM_M1070_S0080_N_0010>
+The outline of the words grows clear. It is a voice I have heard before.<bt_wait><BGM_BGM_M1070_S0080_N_0010>
 It is Adam—a machine made in the image of a man.<bt_wait>
 
-“We machine lifeforms have evolved,” he says. “We made war. Learned. Grew.
-And thus we gained a new consciousness.<bt_wait>
-Indeed, it is as if a new form of existence has been born.”
+“We machine lifeforms... through long years of struggle, learning, and evolution...”
+“...have reached the point of acquiring a new consciousness.<bt_wait>
+Yes... almost as if a new life has been born.”
 </page>
 
 
 <page>
-<i>Lies! Nothing but lies from mere machines!</i><bt_wait>
+<i>Lies. Mere machines...</i><bt_wait>
 
-Adam laughs. “And yet you androids claim to be alive? How very odd.
-You are puppets who lack even your own free will.”
+Adam laughs. “Mere machines have no right to call themselves life, is that it?”
+“True enough. You androids cannot be called life, either—puppets that do not live by your own will.”
 
-<i>No! You're wrong!</i>
+<i>No! That is wrong!</i>
 
 </page>
 
@@ -40,25 +40,25 @@ You are puppets who lack even your own free will.”
 <page>
 His words flow through me as though they were poured into my ear.
 
-“How am I wrong, boy?”<bt_wait>
+“What is wrong, boy?”<bt_wait>
 
 <i>I'm... We're...</i><bt_wait>
                      
-“Perhaps you have a will after all,” he chuckles. “Perhaps you have desires.”
+“That is right, boy. You have a will... a desire... do you not?”
 
 </page>
 
 
 <page>
-“Now you see, boy! The true meaning of life...is hatred!”<bt_wait>
+“Yes. Hatred is the very meaning of life!”<bt_wait>
 
 <i>You're wrong.</i><bt_wait>
 
-“A vile hatred slumbers in the depths of your heart.”<bt_wait>
+“A filthy hatred sleeps in the depths of your heart.”<bt_wait>
 
 <i>You're WRONG!</i><bt_wait>
 
-“The more you try to hide it, the more that darkness grows.”<bt_wait>
+“The more you try to hide it, the more that stagnant darkness grows.”<bt_wait>
 
 <i>Wrong!<bt_wait> Wrong!<bt_wait> Wrong!<bt_wait> Wrong!</i>
 </page>

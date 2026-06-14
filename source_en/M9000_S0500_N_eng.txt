@@ -7,42 +7,42 @@
 
 <label_A>
 <page>
-Will. From where does our will come?
-<sele_D>・It is born from nothingness.
-<sele_B>・It is given to us by God.
-<sele_Z>・I don't care. I don't need any of this!
+Will... Where does our will come from?
+<sele_D>・It is born from nothing.
+<sele_B>・It is bestowed by God.
+<sele_Z>・I don't care anymore. Throw everything away.
 </page>
 
 <label_B>
 <page>
-God. How did God create us?
-<sele_C>・By random chance.
-<sele_D>・From nothingness.
-<sele_Z>・I don't care. I don't need any of this!
+God... How did God create us?
+<sele_C>・By chance.
+<sele_D>・From nothing.
+<sele_Z>・I don't care anymore. Throw everything away.
 </page>
 
 <label_C>
 <page>
-Chance. Was this world created by random chance?
+Chance... Was this world created by chance?
 <sele_A>・All is according to God's will.
-<sele_D>・It was not random. This world is filled with nothingness.
-<sele_Z>・I don't care. I don't need any of this!
+<sele_D>・There is no chance. This world is filled with nothing.
+<sele_Z>・I don't care anymore. Throw everything away.
 </page>
 
 <label_D>
 <page>
-Nothingness. Is there any meaning to living in this world?
+Nothingness... Is there any meaning in living in this world?
 <sele_B>・Pray to God.
-<sele_A>・Hold true to your own will.
-<sele_Z>・I don't care. I don't need any of this!
+<sele_A>・Hold on to your own will.
+<sele_Z>・I don't care anymore. Throw everything away.
 </page>
 
 
 
 <label_END>
 <page>
-The time is upon us.
-Who can say what strife lies ahead...
+It is almost time.
+What kind of battle awaits us ahead...
 
 </page>
 <EXIT>
@@ -52,8 +52,8 @@ Who can say what strife lies ahead...
 <page>
 The game is currently being installed.
 You cannot continue playing the game until the install has completed.
-Do you wish to discard everything and return to the title screen?
-If you do, you will lose any unsaved data.
+Would you like to throw everything away and return to the title screen?
+If you do, all unsaved data will be lost.
 <sele_Y> - Yes
 <sele_A> - No
 </page>

@@ -3,57 +3,57 @@
 <BGM_BGM_M5095_S0300_N_start>
 <page>
 My name is Plato 1728.<bt_wait>
-I am the 1728th combat weapon.<bt_wait>
-I'm a defective product and a general failure.<bt_wait>
+The 1728th combat weapon.<bt_wait>
+I was defective. A failed thing.<bt_wait>
 
 Everyone made fun of me.<bt_wait>
-Nobody wanted to be friends with me.<bt_wait>
+I stopped being friends with everyone.<bt_wait>
 
-One day, I found a small friend in an abandoned factory.<bt_wait>
-It was a small doll that humans had left behind.<bt_wait>
-It couldn't speak, but I decided to take care of it.<bt_wait>
+One day, in a ruined factory, I found a little friend.<bt_wait>
+It was a little doll the humans had left behind.<bt_wait>
+The doll could not speak, but I decided to treasure it.<bt_wait>
 
-Every day, I would go and talk to it.
-And every day, the war grew worse and worse.<bt_wait>
+While I talked with the doll,
+the war grew worse and worse.<bt_wait>
 
-In the end,<bt_wait> the factory <bt_wait>got blown to pieces.
+And then,<bt_wait> the doll factory <bt_wait>was bombed.
 
 </page>
 
 <page>
-I saw my friend be consumed by fire.<bt_wait>
-So I went crazy.<bt_wait>
-I killed everyone, friend and foe alike.<bt_wait>
+My friend burned in the flames.<bt_wait>
+Seeing that, I went out of control.<bt_wait>
+I killed everyone, enemy and ally alike.<bt_wait>
 
-I still don't know what got into me.<bt_wait>
+Even now, I do not know why I did it.<bt_wait>
 
-As soon as I ran out of energy, my friends...<bt_wait>
-Those who used to be my friends captured me.<bt_wait>
+When my energy ran out, my comrades...<bt_wait>
+Those who used to be my comrades captured me.<bt_wait>
 
-They took me apart, examined me, and threw away my body.<bt_wait>
+They disassembled me, examined me, and discarded my body.<bt_wait>
 I've been watching the real world from this memory space ever since.<bt_wait>
 
-You've seen them too, right?<bt_wait>
+You saw them too, didn't you?<bt_wait>
 
-The ones who only care about getting stronger.<bt_wait>
-The ones who discriminate against machine lifeforms.<bt_wait>
-The ones caught in their own web of rules.
+Those who made growing stronger their purpose.<bt_wait>
+Those who discriminate against Machine Lifeforms.<bt_wait>
+Those bound by their own rules.
 </page>
 
 <page>
-They're all selfish idiots.<bt_wait>
+They are selfish and foolish.<bt_wait>
 
-But I'm in no place to make fun of them.<bt_wait>
-Because my heart has been consumed by something too.<bt_wait>
+But I cannot laugh at them.<bt_wait>
+Because my heart, too, was stolen by something.<bt_wait>
 
-After I went berserk, the machines grew to fear dolls.<bt_wait>
-Even now, they gather dolls together and destroy them.<bt_wait>
-Every day, the dolls are being destroyed.<bt_wait>
-And I keep watching from this memory space, every single day.<bt_wait>
+After I went berserk, Machine Lifeforms came to fear dolls.<bt_wait>
+Even now, the dolls they gather are destroyed.<bt_wait>
+Every day, dolls are destroyed.<bt_wait>
+And from this memory space, I watch that sight every day.<bt_wait>
 
-Why did I do what I did?<bt_wait>
-What did I lose in the process?<bt_wait>
+What was I trying to do?<bt_wait>
+What did I lose?<bt_wait>
 
-Who<bt_wait> is the truly<bt_wait> crazy one here?
+Who<bt_wait> is the one<bt_wait> gone mad?
 </page>
 <BGM_BGM_M5095_S0300_N_end>

@@ -2,14 +2,14 @@ Novel Game (80 x 11)
 □□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
 <BGM_BGM_M1070_S0020_N_start>
 <page>
-I find myself in a bizarre memory storage area stretching as far as I can see.<bt_wait>
+A strange memory region stretches as far as I can see.<bt_wait>
 
-It's a maze.
-A labyrinth.
-A massive interconnected network.
-I've never seen anything like it.<bt_wait> 
+It is like a maze.
+I have never seen a system like this.
 
-It must have been created by the machines.<bt_wait>
+If anything could have created it, it would be the machine lifeforms.<bt_wait> 
+
+And it is a massive, interconnected network.<bt_wait>
 
 So then...what am I doing here?
 </page>
@@ -17,30 +17,30 @@ So then...what am I doing here?
 
 
 <page>
-I...am 9S.
-That's all I can remember.<bt_wait>
+I am... I am 9S...
+But that is all I can remember.<bt_wait>
 
-Large portions of my memory may have been destroyed...<bt_wait>
+I cannot remember anything beyond that.<bt_wait>
 
-What if I forget everything? My memories? My self? My...<bt_wait>
+A large portion of this region may have been destroyed...<bt_wait>
 
-Okay, calm down.<bt_wait> Calm down, calm down, calm down.<bt_wait>
+For a while, I freeze in fear of losing my memories and my self.<bt_wait> Calm down, calm down, calm down.<bt_wait>
 
 
-Just follow the emergency manual and execute the memory recovery program.
+I follow the emergency manual and run the memory recovery process.
 </page>
 
 
 <page>
 The recovery program begins to fill in the blanks in my memory.<bt_wait>
-They drift back like missing letters filling out a word.<bt_wait>
+They return little by little, like missing letters slowly filling in a word.<bt_wait>
 
 The Bunker...
 2B's plan...
-A colossal machine lifeform...
-The last-resort missile strike...<bt_wait>
+the giant machine lifeform...
+the last-resort missile strike...<bt_wait>
 
-Preservation mode was activated at the moment of the blast.
-It halted most of the safeties the network had in place.
+Preservation Mode activated at the moment of the blast.
+It stopped almost every network defense process.
 </page>
 <BGM_BGM_M1070_S0020_N_end>

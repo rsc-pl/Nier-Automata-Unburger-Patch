@@ -2,57 +2,57 @@ Novel Game (80 x 11)
 □□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
 <BGM_BGM_M1070_S0100_N_start>
 <page>
-“All who live are slaves to desire.
-Such internal appetites are what give our lives meaning.
+“All life is captive to desire.
+Those inner urges are the meaning of life.
 Some seek beauty. Others serenity.
-For me, hatred is the—”
+For me, hatred is—”
 
-<i>I'm not like that!</i><bt_wait>
+<i>I am not like that!</i><bt_wait>
 
-“Ha ha ha! Oh, yes you are.”
+“Ha ha ha... Yes, you are.”
 </page>
 
 <page>
 
-             “You<bt_wait> do not trust anything.”<bt_wait>
+            “You<bt_wait> do not believe in anything.”<bt_wait>
 
-                                   “You<bt_wait> want to destroy everything.”<bt_wait>
+                                  “You<bt_wait> want to destroy everything.”<bt_wait>
 
-    “You<bt_wait> have lost hope in everything.”<bt_wait>
+   “You<bt_wait> despair of everything.”<bt_wait>
 
-                                            “You<bt_wait> want to obtain everything.”<bt_wait>
+                                           “You<bt_wait> want to possess everything.”<bt_wait>
 
-                               “You<bt_wait> want to be loved by all.”
-
-</page>
-
-
-<page>
-
-
-
-
-
-
-<BGM_BGM_M1070_S0100_N_0010>“You're thinking about how much you want to **** 2B, aren't you?”<bt_wait>
-
-
-
+                              “You<bt_wait> want everything to love you.”
 
 </page>
 
 
 <page>
-“Reality stained by lies.”<bt_wait>
+
+
+
+
+
+
+<BGM_BGM_M1070_S0100_N_0010>“You want to... **** 2B, do you not?”<bt_wait>
+
+
+
+
+</page>
+
+
+<page>
+Reality covered in lies.<bt_wait>
 
 <i>Stop! Stop it!</i><bt_wait>
 
-“Hatred pouring into you.”<bt_wait>
+Hatred pouring into me.<bt_wait>
 
 <i>You're wrong, damn it!</i><bt_wait>
 
-“Overflowing desire.”<bt_wait>
+Overflowing desire.<bt_wait>
 <i>I'm...I'm not like you!</i><bt_wait>
-“Your true self.”
+My true self.
 </page>
 <BGM_BGM_M1070_S0100_N_end>

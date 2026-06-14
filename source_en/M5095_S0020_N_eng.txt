@@ -12,28 +12,28 @@
 
 <label_A>
 <page>
-Select a file
+Select file to view
 <sele_D> January 30th: Physical Training
-<sele_BACK>Quit
+<sele_BACK>Exit
 </page>
 
 
 <label_B>
 <page>
-Select a file
+Select file to view
 <sele_D2> January 30th: Physical Training
 <sele_E> June 3rd: Combat Training
-<sele_BACK>Quit
+<sele_BACK>Exit
 </page>
 
 
 <label_C>
 <page>
-Select a file
+Select file to view
 <sele_D2> January 30th: Physical Training
 <sele_E2> June 3rd: Combat Training
 <sele_F> September 27th: Plato 1728 Data Disposal Report
-<sele_BACK>Quit
+<sele_BACK>Exit
 </page>
 
 <label_D2>
@@ -47,7 +47,7 @@ Select a file
 
 
 ****************************************************************************************************************************
-　　　　　　　　　　　　　　　　　　　　　This record is scheduled to be deleted and can no longer be accessed.  
+　　　　　　　　　　　　　　　　　　　　　This record is marked for deletion and is no longer accessible.  
 ****************************************************************************************************************************
 </page>
 <if_DLC_plato/2>
@@ -66,7 +66,7 @@ Select a file
 
 
 ****************************************************************************************************************************
-　 　　　　　　　　　　　　　　　　　　　　　　This record is scheduled to be deleted and can no longer be accessed.  
+　 　　　　　　　　　　　　　　　　　　　　　　This record is marked for deletion and is no longer accessible.  
 ****************************************************************************************************************************
 </page>
 <then_C>

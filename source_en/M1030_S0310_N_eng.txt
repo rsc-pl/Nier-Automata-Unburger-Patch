@@ -5,13 +5,13 @@ Novel Game (80 x 11)
 <BGM_BGM_M1030_S0310_N_start>
 <page>
 
-Look at me.
-           Oh please look at me.
-                                I want your eyes to look upon me alone.<bt_wait>
+Hey... look at me.
+           Look only at me,
+                                now that I have become beautiful...<bt_wait>
                         
 
 
-Have I not become beautiful?
+
 
 
 
@@ -19,71 +19,71 @@ Have I not become beautiful?
 
 
 <page>
-<i>Do these clothes make me look cute?</i><bt_wait><BGM_BGM_M1030_S0310_N_0010>
-<i>Would he like it if I walked like this?</i><bt_wait>
+<i>How does this outfit look?</i><bt_wait><BGM_BGM_M1030_S0310_N_0010>
+<i>Would he think this gesture is cute?</i><bt_wait>
 
-I still don't understand what it means to love someone.
-But I've made up my mind.<bt_wait>
+I still do not understand what this feeling called love is.
+But if it will draw his feelings toward me, I will do anything.<bt_wait>
 
-I will do whatever it takes to capture his affection.
+That is what I decided.
 </page>
 
 
 <page>
 Long ago, an old machine lifeform told me something:
-"Beauty is what wins love."<bt_wait>
+"Beautiful things win love."<bt_wait>
 
-But what is "beauty"?<bt_wait>
-After researching the old world, I finally learned the truth.<bt_wait>
-Beauty is pretty skin.
-Beauty is stylish accessories.
-Beauty is looking one's best.<bt_wait>
+But what is "beautiful"?<bt_wait>
+We machine lifeforms have no such concept, so I studied the records humans left behind.<bt_wait>
+Apparently, decoration can strengthen "beauty."
+So can clean skin.
+That is what the old records say.<bt_wait>
 
-I will become beautiful. I will do it for him.
+I will become beautiful. For him.
 </page>
 
 
 <page>
-I once heard tell of a precious jewel far to the east.
-It was said to be located on a terribly dangerous mountain.
+I heard there was a precious jewel somewhere to the east.
+It was a jewel on a terribly dangerous mountain.
 But I did not care.<bt_wait>
 
-I slipped on cliffs. I fell onto rocks. But eventually I claimed the jewel.<bt_wait>
+Again and again, I slipped from cliffs. At last, I took the jewel in my hands.<bt_wait>
 
-Blue stone.<bt_wait> Brilliant blue.<bt_wait> So beautiful.<bt_wait>
+A glittering blue stone.<bt_wait> Bright blue.<bt_wait> So beautiful.<bt_wait>
 
-I lost many parts obtaining this jewel. I lost...myself.<bt_wait>
+Several parts of my body stopped working to obtain this jewel.<bt_wait>
 
-But my wounds are badges.
+But these wounds are medals.
 </page>
 
 
 <page>
 There's a rumor floating among the other machine lifeforms lately:
-"Devour the body of an android to gain eternal beauty."<bt_wait>
+"Eat the body of an android to gain eternal beauty."<bt_wait>
 
-Such nonsense.
-It is physically impossible to obtain beauty by consuming an android.<bt_wait>
+Ridiculous.
+The idea that eating an android can make one beautiful is illogical.<bt_wait>
 
-But I tried anyway.
-I would try anything.<bt_wait>
-I wanted to vomit, but I kept going.<bt_wait>
-It tasted like oil.<bt_wait>
+But I did it anyway.
+If there was even the faintest possibility, I would do anything.<bt_wait>
+I nearly vomited, but I ate it anyway.<bt_wait>
+It tasted like rotten oil.<bt_wait>
 </page>
 
 
 <page>
-Not a moment passed where I didn't strive to become more beautiful.
+Every single day, I worked to become more beautiful, more charming.
+But he still would not look at me.<bt_wait>
+
+I also heard that this thing called a "song" can draw another person's feelings toward you.
+So I practiced singing every day.
+
+But he still would not look at me.<bt_wait>
 But he still won't look my way.<bt_wait>
 
-I even tried to learn what is called a "song."
-Songs can make someone have feelings for you.
-That's what they say.
-So I practiced every day.<bt_wait>
-But he still won't look my way.<bt_wait>
-
-I ate more androids. I even ate machine lifeforms.<bt_wait>
-But he still won't look my way.
+I even ate not only androids, but fellow machine lifeforms.<bt_wait>
+But he still would not look at me.
 </page>
 
 
@@ -103,17 +103,17 @@ He      still      won't      look      my      way.
 
 
 <page>
-That's when I realized he cares not for jewels.
-Or songs or beauty or appearance or anything else.
-I cannot win his love.<bt_wait>
+Eventually, I realized.
 
-Why have I done this to myself?<bt_wait>
+I cannot obtain his feelings.<bt_wait>
 
-Meaningless.<bt_wait>
+He has no interest in costly jewels, rare ornaments, or beautiful bodies.<bt_wait>
+
+Why have I become like this?<bt_wait>
 Meaningless.<bt_wait>
 MEANINGLESS.<bt_wait>
 
-I gaze into the mirror. In its reflection, I see only my own meaninglessness. And so I scream.<BGM_BGM_M1030_S0310_N_0020>
+I scream at the meaninglessness of my reflection in the mirror.<BGM_BGM_M1030_S0310_N_0020>
 </page>
 
 
@@ -123,7 +123,7 @@ I gaze into the mirror. In its reflection, I see only my own meaninglessness. An
 
 
 
-someone<bt_wait>　please<bt_wait>　look<bt_wait>　my<bt_wait>   way
+someone<bt_wait>　please<bt_wait>　acknowledge<bt_wait>　me<bt_wait>
 
 
 

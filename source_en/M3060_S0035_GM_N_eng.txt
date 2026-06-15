@@ -13,16 +13,16 @@ Novel Game (80 x 11)
 <BGM_BGM_M3060_S0035_N_start>
 <page>
 "......"<bt_wait>
-A dusty wind kisses my cheeks.<bt_wait>
+A sand-laden wind brushes against my cheek.<bt_wait>
 
-Buried in sand, we press forward one step at a time.
-We have nowhere else to go, after all.<bt_wait>
-Because our models—the Devola and Popola models—are defective.
+Half-buried in sand, we move forward one step at a time.
+We have nowhere to go.<bt_wait>
+We, the Devola and Popola android models, are defective.
 </page>
 
 
 <BGOFF_1_1>
-The project commences.
+Project begins.
 
 <page>
 
@@ -38,24 +38,24 @@ The project commences.
 </page>
 
 <page>
-When first we woke, there were still people.<bt_wait>
-They had flesh. Egos. Emotions. Souls. And they issued us a single order:
+When we first awoke, humans still existed.<bt_wait>
+They had bodies. Egos. Emotions. Souls. And they gave us a single order:
 
 <i>Function as observers of Project Gestalt.</i><bt_wait>
 
-This is the sole mission of the twin Devola and Popola models.<bt_wait>
-It is the only reason we exist at all.
+That was the sole mission of the twin Devola and Popola models.<bt_wait>
+It was the only reason we existed.
 </page>
 
 <page>
 We were the latest model, though many companions shared our appearance.<bt_wait>
 
-There was a sparkle in all of our eyes. A sense of pride at having been
+All of us had a sparkle in our eyes. A sense of pride at having been
 entrusted with humanity's future.<bt_wait>
 
 And yes, there was anxiety as well.<bt_wait>
-But we existed as a pair. We shared destiny's burden as a pair.
-And because of that, all hesitation was swept away.
+But we were a pair. We bore the same destiny as a pair.
+And because of that, every hesitation was swept away.
 </page>
 
 <page>
@@ -75,80 +75,80 @@ We were observers, after all.
 <page>
 "Ah!"<bt_wait>
 "Watch out!"<bt_wait>
-Devola staggers and falls in the soft yet unforgiving sand.
-I hurry to her side and sigh with relief when I find she's not seriously hurt.<bt_wait>
+Devola loses her footing in the sand and stumbles.
+I catch her at once and let out a breath of relief when I see she is all right.<bt_wait>
 “Are you all right?”<bt_wait>
-“Sorry, Sis. Guess I spaced out there for a bit.”<bt_wait>
+“Sorry, sorry. Guess I spaced out for a bit.”<bt_wait>
 
-She smiles—the same wry smile I know so well—as she rubs absently at her leg.
-It is wrapped in a white bandage.
+Devola gives me a wry smile and lightly rubs the foot she tripped on.
+A white bandage is still wrapped around it.
 </page>
 
 <page>
-“Your bandage is coming undone. Here, let me change it.”<bt_wait>
-“It's all right, Popola. Come on—we have to go before we lose the light.”<bt_wait>
-“We won't be going anywhere if sand gets into that thing.
-Now quit whining and hold still. I'll be quick.”<bt_wait>
+“...Your bandage is coming loose. Should we change it?”<bt_wait>
+“No, I’m fine. Let’s go, Popola. We need to move before the rain comes.”<bt_wait>
+“I know, but...if sand gets inside through the gap, that will be a problem.
+For our own safety, hold still. I’ll be quick.”<bt_wait>
 
-Devola grunts and turns away.<bt_wait> I take it as consent.<bt_wait>
-Soon we are resting in the shade of a nearby rock as I pull the bandage free.
+Devola nods awkwardly at my words.<bt_wait> I take that as consent.<bt_wait>
+I quickly find shade by a nearby rock and have her sit there.
 </page>
 
 <page>
-Artificial skin—torn and bloodied—peeks out from beneath the bandage.
-Judging by Devola's current lack of ambulatory control,
-I imagine the circuitry underneath has been damaged as well.<bt_wait>
-Taking a deep breath, I...
+Torn, bloodied artificial skin peeks out from beneath the loosened bandage.
+The circuitry running beneath it must be damaged as well.
+Devola’s walking control is clearly being affected.<bt_wait>
+I...
 
-<sele_SYURI>・check the circuitry to see if it can be repaired.
-<sele_HOUTAI>・replace the bandage and hope for the best.
+<sele_SYURI>・check whether the circuitry can be repaired.
+<sele_HOUTAI>・wrap the bandage again.
 </page>
 
 
 <label_SYURI>
 <page>
-As expected, wiring in the nerve circuitry has been damaged.
-Replacing it will require new connectors, as well as some tools.<bt_wait>
+As expected, the neural circuitry has been damaged.
+But replacing the wiring would require new connectors and tools.<bt_wait>
 
-None of which is easy to find in a desert.
+There is nothing like that...here.
 </page>
 <go_HOUTAI_END>
 
 <label_HOUTAI>
 <page>
-I want to repair this as soon as possible, but I have no tools or materials.
-And I know I won't find either in the middle of a desert.<bt_wait>
+I want to repair her as soon as possible.
+But tools and materials will be hard to obtain in a desert like this.<bt_wait>
 
-For now, the important thing is to make sure the wound doesn't get worse.
+For now, the important thing is to keep the injury from getting any worse.
 </page>
 <go_HOUTAI_END>
 
 <label_HOUTAI_END>
 <page>
-“Sorry about this, Sis,” mutters Devola.<bt_wait>
-That wry smile again.<bt_wait> It kills me every time.<bt_wait>
-“Don't you dare apologize,” I respond. “You've done nothing wrong.”<bt_wait>
-I calmly change the bandage, trying not to let my worry show.
-I make it as tight as possible so no sand can slip inside.
-It's all I can do until I get the proper materials.<bt_wait>
+“...Sorry,” Devola mutters, sounding apologetic.<bt_wait>
+That wry smile again.<bt_wait> It hurts every time.<bt_wait>
+“Don’t apologize,” I respond. “None of this is your fault.”<bt_wait>
+I calmly change the bandage. Tight and careful, so not a single grain of sand can slip inside.
+This is the best treatment I can give her right now.
+If only we had materials, repairs would be possible.<bt_wait>
 
-But that's going to be a tall order, considering our current condition.
+But in our current condition, even that is difficult.
 </page>
 
 <page>
-“I'm sorry, Sister.”<bt_wait>
-“Okay, now YOU'RE apologizing!”<bt_wait>
+“...I’m sorry.”<bt_wait>
+“Why are you apologizing, Popola?”<bt_wait>
 
-We both apologize while insisting the other's apology isn't necessary.<bt_wait>
-It's kind of funny in a way. Such a trivial exchange under such circumstances?
+We apologize to each other, then tell each other there is no need to apologize.<bt_wait>
+In a situation like this, somehow that trivial exchange feels funny.
 
-We laugh together, the sound echoing out across the desert before being stolen
-by the cool evening wind.
+The small laughs that escape our lips are swallowed
+by the wind of the cooling desert.
 </page>
 
 ※画像ＦＯ。
 <BGOFF_1_2>
-Relapses increasing...
+Relapse cases increasing...
 
 <page>
 
@@ -156,7 +156,7 @@ Relapses increasing...
 
 
 
-[Report Regarding the Increase in Relapses]
+[Record: Regarding the Increase in Relapse Cases]
 
 
 
@@ -167,95 +167,95 @@ Relapses increasing...
 <page>
 “There has to be some way to prevent relapses!”<bt_wait>
 Devola's sharp voice echoes through our private quarters.
-“You must be quiet, Sister. The Replicants will hear.”<bt_wait>
-“Pffft. They wouldn't understand even if they did.”<bt_wait>
-“That might be true, but regardless...”
+“Keep your voice down. The Replicants will hear.”<bt_wait>
+“Even if they hear us, they won’t understand what it means.”<bt_wait>
+“That may be true, but...”
 </page>
 
 <page>
-Annoyed at my hesitation, Devola crosses her legs and scowls.
+Annoyed by my hesitation, Devola recrosses her legs where she sits.
 
-“The Black Scrawl took another victim,” she says. "That's three this month.
-It's spreading way too fast.”<bt_wait>
-“Let's wait and see what happens.”<bt_wait>
-“I'm tired of hearing you say that!”<bt_wait>
+“The Black Scrawl appeared again today,” she says. “That makes three this month.
+It’s spreading far too quickly.”<bt_wait>
+“...Let’s wait and see.”<bt_wait>
+“I’m sick of hearing you say that!”<bt_wait>
 
-Her shout makes me jump. Just a little—but enough for her to notice.
-Seeing that, her eyes suddenly open wide.
+Her raised voice makes my shoulders jerk.
+When Devola sees that, her eyes suddenly open wide.
 </page>
 
 <page>
-“I'm sorry, Sis. It's not your fault. I shouldn't have lashed out like that.”<bt_wait>
-“It's okay. I understand.”<bt_wait>
-“It's all going wrong. You can feel it too, right?”<bt_wait>
-“I...”<bt_wait>
+“Sorry. I took it out on you.”<bt_wait>
+“It’s okay. I understand how you feel.”<bt_wait>
+“...You’re scared too, aren’t you, Popola...?”<bt_wait>
+“...”<bt_wait>
 
-When I was first assigned to Project Gestalt, I was over the moon with pride.<bt_wait>
-But now, my chest hurts just to think about it. If it were to fail...
+When we were entrusted with observing Project Gestalt, my chest swelled with pride.<bt_wait>
+But now...the fear that the project might collapse at any moment is crushing it.
 </page>
 
 <page>
-Before we knew it, the Replicants had gained a sense of self
-and the Black Scrawl started raging out of control.<bt_wait>
+Before we knew it, the Replicants had begun to develop selves.
+The Black Scrawl was also progressing faster than expected.<bt_wait>
 
-It moved fast.<bt_wait> So fast.<bt_wait>
-Like a wind.<bt_wait>
+Every night, while acting as if nothing were wrong around the Replicants in our observation area,<bt_wait>
+Devola and I would share the terror between us.
 
-Popola and I would go to the observation room and act like it was all okay.
-We'd talk to the Replicants as if we didn't have a care in the world.
-But at night, we'd just hold each other and share the horror of it all.
+
+
+
 </page>
 
 
 
 <page>
-“I'm glad you were with me,” murmurs Popola.
-“I couldn't have handled being an observer all alone.”<bt_wait>
-“We were able to endure because we had each other,” I reply softly.<bt_wait>
+“...I’m glad there are two of us,” murmurs Popola.
+“I don’t think I could have handled being an observer alone.”<bt_wait>
+“Yes...we can endure it because there are two of us,” I reply softly.<bt_wait>
 
-Did the humans see this coming? Is that why they made a twin model?<bt_wait>
-Were they really so clever?<bt_wait> ...Were they really so cruel?<bt_wait>       
-I couldn't have done this by myself. I would have descended into madness.
-I simply couldn't bear such a burden all alone.
+If the humans made us twin models because they foresaw a situation like this,<bt_wait>
+then how wise...<bt_wait>and how cruel they must have been.<bt_wait>
+If I had been alone, I might have gone mad long ago under the weight of this role.
+
 </page>
 
 <page>
-“When I get the chance, I'm going to try contacting another city,” she says.
-Maybe these abnormalities are a localized phenomenon.”<bt_wait>
-“I pray that's the case,” I reply. "Even if we're of no use ourselves,
-things will still work out if the other observers can pull through.”<bt_wait>
-“Don't worry. It's going to be okay.”<bt_wait>
+“Next time, I’ll try contacting another city,” she says.
+“I hope these abnormalities are only happening in our area.”<bt_wait>
+“I pray that’s true,” I reply. “Even if we fail here,
+things might still work out if the other observers manage somehow.”<bt_wait>
+“Yes. I’m sure it will be all right.”<bt_wait>
 
-But it wasn't okay.<bt_wait> Nothing was okay.<bt_wait>
-All thanks to a pair of Devola and Popola models from another town.
+But that wish was suddenly trampled.<bt_wait> Mercilessly.<bt_wait>
+The accident caused by Devola and Popola models in another city stole away every hope.
 </page>
 
 ...Desert Part 3.
 <BGLOAD_1_3>
 <BGON_1_3>
 <page>
-The wind rubs my cheeks. The sand grazes my skin.<bt_wait>
-It's grown cold out here.<bt_wait><BGM_BGM_M3060_S0035_N_0020>
-We walk with renewed purpose, hoping to make up for lost time.
-Devola loses her balance every now and then. It gets bad after a while.<bt_wait>
+The wind brushes sand against my cheek. The air has grown cold.<bt_wait>
+We keep walking.<bt_wait><BGM_BGM_M3060_S0035_N_0020>
+At times, Devola’s body loses its balance.
+I support her so she won’t fall, and we move forward one step at a time, our feet caught in the sand.<bt_wait>
 I slip myself under her arm so she won't fall again and we press on.<bt_wait>
 
-“Is your leg all right?”<bt_wait>
-“Well, I doubt I'll be dancing anytime soon, but yeah. It's fine.”<bt_wait>
+“...Is your leg hurting?”<bt_wait>
+“Yeah, it still moves.”<bt_wait>
 
-She smiles as she says this, but I can tell she doesn't have much left.
-And yet, she continues to smile—all so I won't worry.
+There is no ease left in Devola’s grin.
+Even so, she smiles so I won’t worry.
 </page>
 
 <page>
-I remember when our Resistance allies injured her leg.<bt_wait>
-I was furious. Beyond fury. I wanted to scream and cry and lose myself in it.
-But then she smiled, and all of that rage just...drifted away.<bt_wait>
+It was the same then.<bt_wait>
+When a fellow Resistance member slashed her leg, she smiled to calm me as I nearly lost myself to rage.
 
-To think we have the same face, yet such different smiles.<bt_wait>
 
-One day, I realized how she reminded me of the martyrs I'd seen in old records.
-That was the day we decided to leave our town forever.
+Though she has the same face as me, her smile was so clear, so fragile.<bt_wait>
+
+The day I realized it resembled the martyrs I had seen in old records
+was the day we decided to leave town forever.
 </page>
 
 
@@ -268,7 +268,7 @@ Project Gestalt collapses
 
 
 
-[Record of Project Gestalt's End]
+[Record: The End of Project Gestalt]
 
 
 
@@ -277,127 +277,127 @@ Project Gestalt collapses
 </page>
 
 <page>
-Our role as observers ended on the day Project Gestalt collapsed.
-All due to the actions of Devola and Popola models from another town.<bt_wait>
+The observer role given to us came to an abrupt end one day.
+Project Gestalt collapsed due to an accident caused by Devola and Popola models in another city.<bt_wait>
 
-With the original Gestalt lost, humanity was doomed to an inevitable extinction.<bt_wait>
-Knowing this, we gathered what remaining Replicant data we could find
-and launched it to the surface of the moon.<bt_wait>
-And though success was as unlikely as finding a lost sand grain in the desert,
-we still had to attempt it.<bt_wait> We still had to try.<bt_wait>
-We were androids, you see. Protecting humanity was our instinct.
+With the Original Gestalt lost, humanity was forced toward extinction.<bt_wait>
+As a final act of resistance, we androids gathered the few remaining Replicant data records
+and launched them to the surface of the Moon.<bt_wait>
+It was hope with odds like finding a single grain of gold lost in the desert,
+but perhaps the instinct of androids built to protect humanity drove us to try.<bt_wait> We still had to try.<bt_wait>
+
 </page>
 
 <page>
-Other androids, beholden to that same instinct, began to direct their hate at
-the Devola and Popola models who'd snuffed out humanity.<bt_wait>
+And then...other androids, obeying that same instinct, began to direct their hatred at
+the Devola and Popola models who had ended Project Gestalt, humanity’s hope.<bt_wait>
 
-It started small. A few off-hand remarks. The occasional glance.<bt_wait>
-But even the smallest things have weight, and with enough of them combined,
-that weight eventually becomes a boulder.<bt_wait>
-Emotions boiled over. Remarks became jeers. And soon enough,
+At first, it was small complaints.<bt_wait>
+But as they piled up, they gradually grew heavier, stirred emotions,
+and spread outward quietly, but surely.<bt_wait>
+By the time complaints turned to jeers,
 
 
-my sister and I were the perfect target for persecution.
+our model had become a target people thought deserved persecution.
 </page>
 
 <page>
-At first, we simply accepted the fact that our friends turned on us.<bt_wait>
-It was almost unavoidable, I suppose.
-We were observers for Project Gestalt, after all.<bt_wait>
-And while we didn't cause it to fail, the people who did...<bt_wait>
-Well, they looked just like us.<bt_wait>
+At first, we accepted the blame directed at us by androids who were supposed to be our allies.<bt_wait>
+In truth, we were observers of Project Gestalt.
+And even though we were not the ones who ruined it,<bt_wait>
+the Devola and Popola who did had the same shape and face as us.<bt_wait>
+<bt_wait>
 
-So we accepted it. We took the resentment and scorn. We endured.<bt_wait>
-Because as crazy as it sounds, I think we actually felt...<bt_wait>responsible.
+So we endured the resentment that came at us day after day.<bt_wait>
+Perhaps, because we shared the same model, we felt something like collective responsibility.<bt_wait>
 </page>
 
 <page>
-We moved from town to town in an effort to avoid persecution.
-But in one such town, my seemingly infinite patience finally broke.<bt_wait>
-My sister, Devola, met with unprovoked violence at the hands of a Resistance member.
-She said something in response to his taunts.<bt_wait> Something quiet.<bt_wait>
-And though her words were ambiguous, he slashed her leg nearly in two.<bt_wait>
+We moved from town to town to avoid persecution.
+But in one such town, the fetters around my patience finally snapped.<bt_wait>
+My sister, Devola, suffered groundless violence at the hands of a Resistance member in that town.
+She had only hesitated a little in the face of his unreasonable words.<bt_wait> Just a little.<bt_wait>
+For that alone, he suddenly slashed her leg nearly in two.<bt_wait>
 
-My vision narrowed. Everything went red. And then...she smiled at me.<bt_wait>
-“It's okay, Sis. There's nothing we can do.”<bt_wait>
-But it was too late. My emotions were no longer in my control.<bt_wait>
-I'm simply not strong enough to stand aside and let the most important person
-in the world come to harm.
+As rage turned my vision red, Devola held me back with a smile.<bt_wait>
+It can’t be helped, her smile said. It’s only natural.<bt_wait>
+But my emotions could no longer be stopped.<bt_wait>
+I am not strong enough to stay normal when the most important person
+in the world is hurt before my eyes.
 </page>
 
 <page>
-Devola and I left town that same day.
+I left town with Devola that very day.
 
-Violence like that wouldn't stop. It was going to happen again.<bt_wait>
-And it wouldn't be coming from just one person.<bt_wait>
+Violence, once unleashed, does not subside.<bt_wait> It repeats a second time, and a third.<bt_wait>
+And it could never end with just one person.<bt_wait>
 
-So rather than let them kill us, we ran.
-I guess it was the greatest resistance I could muster.
+Before they killed us, we disappeared.
+That was the best resistance I could manage.
 </page>
 
 ...Desert Part 4
 <BGLOAD_1_4>
 <BGON_1_4>
 <page>
-We lose the sun as dark clouds gather overhead.<bt_wait>
-We continue our march.<bt_wait>
+Thick clouds have gathered, and the sun is completely hidden.<bt_wait>
+We keep walking.<bt_wait>
 
-A cold wind blasts us, stealing what little body heat we have left.<bt_wait>
-I smell rain in the air.<bt_wait>
-We continue our march.<bt_wait>
+A cold wind blasts us, mercilessly stealing our body heat.<bt_wait>
+Rain is drawing near.<bt_wait><bt_wait>
 
-Sometimes we hear animals howling in the distance.<bt_wait>
-It makes us flinch every time.<bt_wait>
-But we continue our march, because even this is better than suffering at the
-hands of our fellow androids.
+
+Sometimes distant howls make us tense up,<bt_wait>
+but they are better than being hurt by our own comrades.<bt_wait>
+
+
 </page>
 
 <page>
-Why must we suffer this persecution?<bt_wait>
-I know we're the same model as the androids who doomed humanity,
-so I understand that part.<bt_wait> At least a little, anyway.<bt_wait>
-But at the same time, we're <i>not</i> them. We're <i>not</i> the same.
-We are who <i>we</i> are, and that Devola and Popola were who <i>they</i> were.<bt_wait>
-That's how I felt when I saw Devola being hurt.
-I wanted to shout it at everyone. I wanted to scream.<bt_wait>
+...Why must we be persecuted?<bt_wait>
+I understand that we are the same model as the androids who doomed humanity.
+I understand that much.<bt_wait> At least that much.<bt_wait>
+But “<i>we</i>” are “<i>we</i>.” We are not that “<i>Devola and Popola</i>.”<bt_wait>
+That was the <i>feeling</i> that burst open when I saw Devola hurt before my eyes.<bt_wait>
 
-As far as I'm concerned, there's only one Devola.<bt_wait> And for her, there's only me.<bt_wait>
-No one can take the other's place.
+I wanted to shout it at everyone.<bt_wait>
+
+To me, there is only one Devola.<bt_wait> And to Devola, there is only one me.<bt_wait>
+No one can take either of our places.
 </page>
 
 <page>
-Rain falls from the sky.
-It stimulates our sensation nerves like cold needles.<bt_wait>
+Rain begins to fall, drop by drop.
+It stimulates our sensory nerves like cold needles.<bt_wait>
 
-We need maintenance badly. But that's a pipe dream, I suppose.<bt_wait>
-No android would dare help a pair of outcasts like us.
+Maintenance is no longer something we can hope for.<bt_wait>
+There are no androids left who would give charity to defective things like us.
 </page>
 
 <page>
-“Are you cold, Devola?”<bt_wait>
-“I'm all right as long as you're with me, Sis.”<bt_wait>
+“...Devola, are you cold?”<bt_wait>
+“I’m all right because you’re with me, Popola.”<bt_wait>
 “I feel the same.”<bt_wait>
 
-We press our bodies together to try and retain heat.
-It's cold now. Much worse than the searing heat of midday.
-But we just smile at each other and keep pressing on.<bt_wait>
-There's another camp on the other side of the desert. A new camp.
-If we can just get there, I can finally fix Devola's leg.
+The weather has gone strange. The stabbing heat has turned, before we know it, into freezing cold.
+We press close together and keep moving forward, smiling as if to encourage each other.<bt_wait><bt_wait>
+
+If we cross this desert, there should be a new camp on the other side.
+If we reach it, I can finally fix Devola’s leg.
 </page>
 
 
 <page>
-And yet, I wonder if there's anywhere on this planet that will take us.
+And yet...is there anywhere on this planet that will take us in?
 
-“Hey. What's wrong?”<bt_wait>
-“...It's nothing. Don't worry about it.”<bt_wait>
+“What’s wrong?”<bt_wait>
+“No, it’s nothing.”<bt_wait>
 
-I do what I can to suppress the anxiety in my chest and keep walking.
+I hold down the anxiety rising in my chest and keep walking.
 </page>
 
 <page>
-The rain grows worse. It lashes at us without pause.<bt_wait>
+The rain grows worse.<bt_wait>
 Is this our punishment?<bt_wait>
 
 I reach out and...
@@ -407,27 +407,27 @@ I reach out and...
 
 <label_AME>
 <page>
-The rain flows down her cheeks like tears. I reach over and gently wipe it away.
-She smiles, but seems surprised.<bt_wait>
+Rain traces down Devola’s cheek like tears.
+I gently wipe it away.<bt_wait>
 
-“There's no point in doing that, you know,” she whispers.<bt_wait>
+After a moment of surprise, Devola smiles. “There’s no point, you know.”<bt_wait>
 
-But there is.<bt_wait>
-Because I swore to myself that I would stay with her forever.<bt_wait>
+In my heart, I swear.<bt_wait>
+I will stay with her forever, no matter what lies ahead.<bt_wait>
 </page>
 <go_SABAKU_END>
 
 <label_KARADA>
 <page>
-As long as we have bodies to support one another...<bt_wait>
-As long as I have someone with whom to share my fate...<bt_wait>
-Then I will press on, no matter what happens to me.<bt_wait>
+As long as we have bodies with which to support each other...<bt_wait>
+As long as I have my other half, with whom I share my mission...<bt_wait>
+I will keep moving forward, no matter what anyone does to me.<bt_wait>
 
-Because I won't ever stop protecting her.<bt_wait>
+I will protect Devola, always.<bt_wait> I will not stop.<bt_wait>
 
-I won't stop.<bt_wait>
 
-No one stops.
+
+
 </page>
 <go_SABAKU_END>
 
@@ -438,7 +438,7 @@ No one stops.
 
 
 
-　　　　　　　　　　For that is the fate <bt_wait>we twin androids have been assigned.<BGM_BGM_M3060_S0035_N_0030>
+　　　　　　　　　　For that is <bt_wait>the fate imposed on us twin androids...<BGM_BGM_M3060_S0035_N_0030>
 
 
 

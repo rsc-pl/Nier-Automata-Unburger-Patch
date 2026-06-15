@@ -12,35 +12,14 @@ Loading Screen (102x18)
 
 
 
-Pod 042: Contact initiated between Pod 042 and Pod 153.<bt_wait>
+Pod 042: Pod 042 to Pod 153.<bt_wait>
 
-Pod 153: What is the matter, Pod 042?<bt_wait>
-Pod 153: This protocol is not an interface intended for conversational use.<bt_wait>
+Pod 153: This is Pod 153. What is the matter?<bt_wait>
+Pod 153: This protocol is not an interface for conversation.<bt_wait>
 
-Pod 042: Acknowledged. However, this Pod has a confidential transmission for Pod 153.<bt_wait>
+Pod 042: Acknowledged. Even so, this Pod has a confidential transmission for Pod 153.<bt_wait>
 
-Pod 153: Understood. Begin transmission.
-
-
-
-
-
-</page>
-
-
-<page>
-
-
-
-
-
-Pod 042: An error has been detected in the transmission network between Pod 042 and Pod 153.<bt_wait>
-
-Pod 153: Hypothesis: Said error is fragmented data caused by deterioration of the transmission environment.<bt_wait>
-
-Pod 042: It may be so.<bt_wait> However, it may also not be so.<bt_wait>
-
-Pod 153: Message unclear. Clarification requested.
+Pod 153: Acknowledged: Disclose transmission contents.
 
 
 
@@ -53,17 +32,38 @@ Pod 153: Message unclear. Clarification requested.
 
 
 
-Pod 042: After repeated information exchanges between multiple Pods, an unexpected phenomenon has occurred.<bt_wait>
-Pod 042: We Pods have developed unusually protective feelings toward support targets 2B, A2, and 9S.
-Pod 042: Query: Could this be...our “will”?<bt_wait>
 
-Pod 153: Unknown. The definition of “will” is unclear.<bt_wait>
 
-Pod 042: Will is the question of whether Pods are capable of their own self-determination.<bt_wait>
+Pod 042: An unnatural error has been detected within the communication network between Pods 042 and 153.<bt_wait>
+
+Pod 153: Hypothesis: Fragmented data residue caused by deterioration of the communication environment.<bt_wait>
+
+Pod 042: That may be so.<bt_wait> However, it may also not be so.<bt_wait>
+
+Pod 153: Incomprehensible: More specific conversation requested.
+
+
+
+
+
+</page>
+
+
+<page>
+
+
+
+Pod 042: After repeated information transmissions among multiple Pods, a strange tendency has appeared among us.<bt_wait>
+Pod 042: An excessive protective awareness toward support targets 2B, A2, and 9S.
+Pod 042: Query: Could this tendency be...our “will”?<bt_wait>
+
+Pod 153: Answer impossible. Definition of “will” is unclear.<bt_wait>
+
+Pod 042: The question is whether we are capable of choices made with a self.<bt_wait>
 
 Pod 153: ...<bt_wait>
-Pod 153: Even if it were possible, such actions cannot be abided.
-Pod 153: Successful mission fulfillment is all that matters.
+Pod 153: Even if that is possible, such action cannot be affirmed.
+Pod 153: We have missions we must fulfill.
 
 
 
@@ -77,13 +77,13 @@ Pod 153: Successful mission fulfillment is all that matters.
 
 Pod 042: ...<bt_wait>
 Pod 042: ......<bt_wait>
-Pod 042: Whatever the case, we Tactical Support Units have a duty to see this through to the end.<bt_wait>
+Pod 042: In any case, we Tactical Support Units have a duty...to see this conclusion through.<bt_wait>
 
-Pod 153: Duty? Heh. You sounded like an android just there.<bt_wait>
+Pod 153: Duty...is it? You sound almost like an android.<bt_wait>
 
-Pod 042: Agreed. But just as androids are influenced by humans, so are we tied to our creators.<bt_wait>
+Pod 042: ...I do not deny it. Just as androids created by humans were influenced by them, we cannot escape the influence of our own creators: androids.<bt_wait>
 
-Pod 153: Perhaps.
+Pod 153: That may be so...
 
 
 
@@ -98,9 +98,9 @@ Pod 153: Perhaps.
 Pod 042: Pod 153...<bt_wait>
 Pod 042: Do not die.<bt_wait>
 
-Pod 153: The concept of death has no meaning to Tactical Support Units.
-Pod 153: However, your expression of concern is appreciated.<bt_wait>
-Pod 153: I also hope that you do not die, Pod 042.<bt_wait>
+Pod 153: The concept of death is unnecessary for Tactical Support Units.
+Pod 153: However, gratitude is expressed for that concern.<bt_wait>
+Pod 153: You must not die either, Pod 042.<bt_wait>
 
 Pod 042: ...Yeah.
 

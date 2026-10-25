@@ -1,0 +1,387 @@
+﻿※ノベルゲーム（４４ｘ１１）
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+..M9999_S0000_N.txt
+※XboxOne用スタッフロール画面。
+
+
+
+<BGLOAD_1_1>
+<BGON_1_1>
+※※砂漠の画像。ＦＩ。
+
+<color_ffffff>
+<bgcolor_000000>
+
+<page>
+９Ｓが到達した乾いた砂漠には、砂混じりの風が舞っている。<bt_wait>
+
+<BGM_BGM_M3060_S0035_N_0010_ac>見渡す限り、生きるモノが何一つ見えない場所で、小さな機械が埋まっていた。<bt_wait>
+それは小さな黒い箱で、小さなランプが灯っている。<bt_wait>
+中のデータを吸い出したところ以下のような情報が確認された……
+
+
+
+
+
+</page>
+
+<page>
+<BGM_BGM_M3060_S0035_N_0020_ac>NieR:Automata BECOME AS GODS Edition スタッフロール<bt_wait>
+
+Director: YOKO TARO
+</page>
+
+<page>
+PlatinumGames Inc.
+	
+EXECUTIVE PRODUCER: Atsushi Inaba
+PRODUCER: Kazumichi Kimura
+
+GAME DESIGN
+Game Designer: Takahisa Taura
+Game Designer: Isao Negishi
+</page>
+
+<page>
+PROGRAMMING
+Programmer: Ryo Onishi
+
+ARTIST
+UI Artist: Ryoko Konami
+3D Character Artist: Kazumiri Tazaki
+Environment Artist: Shohei Kameoka
+VFX Artist: Naoki Tsuta
+</page>
+
+<page>
+SOUND
+Lead Sound Designer: Misaki Shindo
+
+OUTSOURCING
+Outsourcing Supervisor: Atsushi Kurooka
+Outsourcing Manager: Tsuneharu Nishioka
+Outsourcing Manager: Tokuma Nakazawa
+Outsourcing Manager: Misaki Kimura
+</page>
+
+<page>
+LOCALIZATION
+Lead Localizer: Andrew Brasher
+
+QUALITY ASSURANCE
+QA Lead: Ryosuke Yokoi
+</page>
+
+<page>
+QLOC S.A.
+
+GENERAL MANAGER: Adam Piesiak
+
+BUSINESS DEVELOPMENT
+Business Development Director: Pawel Ziajka
+Business Development Manager: Ayaka Anyoji
+</page>
+
+<page>
+JAPANESE RELATIONS
+Head of Japanese Relations: Paulina Tuczapska
+Japanese Relations Specialist: Katarzyna Bryx
+Japanese Relations Specialist: Kohei Fujita
+
+DEVELOPMENT
+Director of Development: Sebastian Bzdega
+Deputy Development Director: Grzegorz Hodala
+Junior Project Manager: Andrzej Pilat
+</page>
+
+<page>
+PROGRAMMING
+Lead Programmer: Radoslaw Pluskota
+Programmer: Marian Jarmoszko
+Programmer: Piotr Bachur
+Programmer: Piotr Kielczyk
+Programmer: Piotr Milewski
+Programmer: Piotr Pajak
+</page>
+
+<page>
+DEVELOPMENT SUPPORT
+Development Support Coordinator: Tomasz Goscicki
+Development Support Specialist: Andrzej Dziechciarek
+Development Support Specialist: Karol Grobelny
+
+ARTIST
+Lead Graphic Artist: Piotr Michalak
+Graphic Artist: Paulina Rygier
+</page>
+
+<page>
+DATA ADMINISTRATORS
+Lead Data Administrator: Michal Chraniuk
+Data Administrator: Maxime Darne
+Data Administrator: Piotr Lawniczuk
+
+IT DIRECTOR: Artur Szczurzynski
+
+INFRORMATION SECURITY MANAGER: Lukasz Kolecki
+
+HEAD OF HR: Katarzyna Orman
+</page>
+
+<page>
+SQUARE ENIX CO., LTD.
+
+QA Coordinator: Hiroshi Tsunoda
+QA Coordinator: Kengo Murata
+QA Coordinator: Yasutoshi Yoshida
+QA Coordinator: Ayaka Mizuta
+QA Coordinator: Chinami Honma
+QA Coordinator: Tomohiro Takahara
+QA Coordinator: Yuya Okumura
+QA Coordinator: Hiroshi Araki
+QA Coordinator: Sho Tanaka
+</page>
+
+<page>
+Technical QA Engineer: Keigo Kouno
+Technical QA Engineer: Kazuya Okada
+Technical QA Engineer: Keishi Takeda
+Technical QA Engineer: Toyokazu Takehara
+Tester: Kouki Tokitou
+Tester: Ken Hayama
+QA Chief Coordinator: Kiminori Ohya
+Ratings Advisor: Reiko Kondo
+QA Manager: Kazunori Ohwada
+QA Manager: Hideyuki Kato
+General QA Manager: Yukihiro Shibuya
+</page>
+
+<page>
+Producer: Yosuke Saito
+President & CEO: Yosuke Matsuda
+
+Executive Officer: Yuu Miyake 
+Assistant Producer: Masaki Harada
+</page>
+
+<page>
+SQUARE ENIX LTD.
+
+QA & Localisation Services Director: Marc Titheridge
+QA & Localisation Services Director: Yuko Tomizawa
+
+Head of Localisation: Martin Walter
+
+Localisation Project Manager: Nobuko Sugahara
+
+Senior Localisation Producer: Elisa Giribaldi
+Senior Localisation Producer: Alex Moresby
+</page>
+
+<page>
+Assistant Localisation Producer: Kevin Balon
+
+LQA Manager: Björn Holste
+
+Senior Translation Manager: Andii Yamanaka
+
+Senior Japanese Business Translator / Event Translation Manager: Gavin Poffley
+
+Senior Japanese Business Translator / Assistant Manager: Grace Ellen Mitchell
+</page>
+
+<page>
+Japanese Business Translator: Kyoko Hotta Gowlett 
+Japanese Business Translator: Shigeru Tabata
+Japanese Business Translator: Juzo Hirose
+Japanese Business Translator: Katsuya Norita
+Japanese Business Translator: Corinne Foxton
+Japanese Business Translator: Hinako Matsumoto
+
+Marketing Manager - EU Strategic Lead: Cédrine Décoret
+
+PR Director - EU Strategic Lead: Thorsten Küchler
+</page>
+
+<page>
+Senior Social Media Manager: Sunil Godhania
+Social Media Manager: Mike Adebajo
+Social Media Executive: George Hind
+Graphic Production Director: Stéphanie Journau
+Senior Creative Producer: Philip Horton
+Creative Producer: Dan Hill
+Visual Design Lead: Gary Harrod
+Visual Designer: Lewis-jon Somerscales
+Visual Designer: Lee Gibbons
+Graphic Production Designer: Cindy Taylor
+Associate Graphic Production Designer: Aaron Bent
+</page>
+
+<page>
+Senior Business Manager: Hideki Miwa
+Assistant Business Manager: Imogen Wright
+Marketing Director, West Strategic Lead: Adrian Arnese
+Executive Director Marketing: Larry Sparks
+Chief Marketing Officer: John Heinecke
+Chief Executive Officer: Phil Rogers
+General Manager – EU Commercial And Publishing Services: Justin Gaffney
+Sales Director - EU: Karine Parker
+Business Intelligence Manager - EU: Leah Simpson
+Marketing Director - EU: Anthony Newall
+Media Strategist: Kim Fitzgerald
+</page>
+
+<page>
+Senior Digital Operations Manager - EU: Toby Coleman
+Marketing Director - UK: Elizabeth Blackman
+Assistant Marketing Manager - UK: Melissa Larsson
+Senior PR Manager - UK: Tom Goldberger
+Marketing Director - Export: Laura Disney
+Marketing Manager - Export: Sandra Chau
+PR Executive - Export: Shez sheikh
+</page>
+
+<page>
+SQUARE ENIX SARL
+
+Managing Director, France & Benelux: Florent Moreau
+
+Marketing Director, France & Benelux: Tristan Perdriau
+
+Marketing Manager, France & Benelux: Fabio Costa
+
+Senior PR Manager, France & Benelux: Émilie Hurel
+
+Community, Social & Influencer Manager, France & Benelux: Cédric Devoyon
+</page>
+
+<page>
+SQUARE ENIX GmbH
+
+Managing Director & Finance, Germany/Austria/Switzerland: Klaus Jens
+Marketing & PR Director, Germany/Austria/Switzerland: Lars Winkler
+Marketing Manager, Germany/Austria/Switzerland: Kerstin Weber
+Senior Marketing Manager, Germany/Austria/Switzerland: Dominik Heineccius
+Senior PR Manager, Germany/Austria/Switzerland: Markus Häberlein
+Senior Community Manager, Germany/Austria/Switzerland: Barbara Winterfeldt
+</page>
+
+<page>
+SQUARE ENIX LTD.
+
+Head Of Community And Service: Saori Spencer-Hill
+European Customer Service Director: Damian Bennett
+European Support Senior Manager: Camille Ledauphin
+European Support Manager: Andreas Remy
+European Senior Support Centre Operator: Maximilian Horn
+European Senior Support Centre Operator: Marion Mangion
+European Senior Support Centre Operator: John Quantin
+European Senior Support Centre Operator: Robert Hoerenz
+</page>
+
+<page>
+European Operations Support Senior Manager: Bastian Spiegel
+European Operations Support Manager: James Avins
+European Operations Support Coordinator: Edward Avins
+European Operations Support Coordinator: Louise Delahaye
+European Operations Support Coordinator: Kira Freyer
+European Operations Support Coordinator: Mizue Kawai
+</page>
+
+<page>
+Pole To Win International
+
+Pole To Win Europe – Square Enix Europe Support Account Manager: Michael Joyce
+Pole To Win Europe – Square Enix Europe Support Team Lead: Paul Neil
+Pole To Win Europe – Square Enix Europe Support Team Lead: Emanuele Cossa
+Pole To Win Europe – Square Enix Europe Support Team Lead: Eric Pupunat
+Pole To Win Europe – Square Enix Europe Support Representative: Aurélien Bayart
+Pole To Win Europe – Square Enix Europe Support Representative: Raymond Chan
+Pole To Win Europe – Square Enix Europe Support Representative: Begona Falcons
+Pole To Win Europe – Square Enix Europe Support Representative: Anne-laure Grimaud
+Pole To Win Europe – Square Enix Europe Support Representative: Kaya Herklotz
+</page>
+
+<page>
+Pole To Win Europe – Square Enix Europe Support Representative: Laurie Kitson
+Pole To Win Europe – Square Enix Europe Support Representative: Delia Lange
+Pole To Win Europe – Square Enix Europe Support Representative: Esther Montes
+Pole To Win Europe – Square Enix Europe Support Representative: Andrew Morson
+Pole To Win Europe – Square Enix Europe Support Representative: Annaig Nicol
+Pole To Win Europe – Square Enix Europe Support Representative: Alexander Nicolson
+Pole To Win Europe – Square Enix Europe Support Representative: Sabrina Obreiter
+Pole To Win Europe – Square Enix Europe Support Representative: Camille Renard
+Pole To Win Europe – Square Enix Europe Support Representative: Johannes Renger
+Pole To Win Europe – Square Enix Europe Support Representative: Lena Madita Syring
+Pole To Win Europe – Square Enix Europe Support Representative: Anna Willert
+</page>
+
+<page>
+Testronic
+
+Director of Localisation QA: Gaëlle Caballero
+
+Localisation QA Manager: Valentina Mollica
+
+Project Manager: Thomas Gillmann
+
+Localisation QA Project Lead: Imelda Vallejo Hinojosa
+
+Localisation QA Project Lead: Joan R. Provencio
+</page>
+
+<page>
+Localisation QA Tester: Daniele Salvo
+
+Localisation QA Tester: Megan Cave
+
+Localisation QA Tester: Giada Ramundo
+
+Localisation QA Tester: Lisa Mittelstädt
+
+Localisation QA Tester: Camilo Esteban Villacis Polo
+</page>
+
+<page>
+SQUARE ENIX, INC.
+
+QA Manager: Mathew A. Clift
+
+Associate QA Manager: Keith P. Christensen-Martz
+
+Senior QA Coordinator: Carmelo Cabezo
+
+Senior QA Administrator: Louis Sedeno III
+</page>
+
+<page>
+QA Team: Wilson Ho
+QA Team: Jerry Lu
+
+Localization & QA Director: Yutaka Sano
+
+CEO: Phil Rogers
+CMO: John Heinecke
+Executive Director - SEE Marketing: Larry Sparks
+Executive Director - SEA Marketing: Kevin Kraff
+</page>
+
+<page>
+<BGM_BGM_M3060_S0035_N_0030_ac>これが何を意味するかわからないが、きっと、どうでもいいことなのだろう。<bt_wait>
+９Ｓは、黒い箱をそっと砂に埋め、見なかった事にした……
+
+
+
+
+
+
+
+<BGOFF_1_1>
+</page>
+<BGM_BGM_M3060_S0035_N_end_ac>
+※ＦＯ。
+
+
+
+

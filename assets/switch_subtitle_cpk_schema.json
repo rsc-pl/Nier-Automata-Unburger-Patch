@@ -1,0 +1,280 @@
+{
+  "header": [
+    {
+      "name": "UpdateDateTime",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "FileSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "ContentOffset",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "ContentSize",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "TocOffset",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "TocSize",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "TocCrc",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "HtocOffset",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "HtocSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "EtocOffset",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "EtocSize",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "ItocOffset",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "ItocSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "ItocCrc",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "GtocOffset",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "GtocSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "GtocCrc",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "HgtocOffset",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "HgtocSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "EnabledPackedSize",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "EnabledDataSize",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "TotalDataSize",
+      "type": 6,
+      "storage": "0x10"
+    },
+    {
+      "name": "Tocs",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "Files",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "Groups",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "Attrs",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "TotalFiles",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "Directories",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "Updates",
+      "type": 4,
+      "storage": "0x10"
+    },
+    {
+      "name": "Version",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "Revision",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "Align",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "Sorted",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "EnableFileName",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "EID",
+      "type": 2,
+      "storage": "0x10"
+    },
+    {
+      "name": "CpkMode",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "Tvers",
+      "type": 10,
+      "storage": "0x50"
+    },
+    {
+      "name": "Comment",
+      "type": 10,
+      "storage": "0x10"
+    },
+    {
+      "name": "Codec",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "DpkItoc",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "EnableTocCrc",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "EnableFileCrc",
+      "type": 2,
+      "storage": "0x50"
+    },
+    {
+      "name": "CrcMode",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "CrcTable",
+      "type": 11,
+      "storage": "0x50"
+    }
+  ],
+  "toc": [
+    {
+      "name": "DirName",
+      "type": 10,
+      "storage": "0x50"
+    },
+    {
+      "name": "FileName",
+      "type": 10,
+      "storage": "0x50"
+    },
+    {
+      "name": "FileSize",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "ExtractSize",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "FileOffset",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "ID",
+      "type": 4,
+      "storage": "0x50"
+    },
+    {
+      "name": "UserString",
+      "type": 10,
+      "storage": "0x30"
+    },
+    {
+      "name": "CRC",
+      "type": 4,
+      "storage": "0x50"
+    }
+  ],
+  "etoc": [
+    {
+      "name": "UpdateDateTime",
+      "type": 6,
+      "storage": "0x50"
+    },
+    {
+      "name": "LocalDir",
+      "type": 10,
+      "storage": "0x50"
+    }
+  ],
+  "tvers": "CPKMC2.49.32, DLL3.24.00",
+  "etoc_timestamp": 569148012390321152
+}

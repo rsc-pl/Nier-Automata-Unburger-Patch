@@ -1,0 +1,29 @@
+※ローディング画面（７５ｘ１８）
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+<BGM_BGM_M5095_S0025_N_start>
+<page>
+電源投入確認<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>コアモジュール起動
+<BGM_BGM_Play_Fx_HDD_1>運動機能　<BGM_BGM_Play_Fx_HDD_1>右腕確認
+<BGM_BGM_Play_Fx_HDD_1>運動機能　<BGM_BGM_Play_Fx_HDD_1>左腕確認
+<BGM_BGM_Play_Fx_HDD_1>運動機能　<BGM_BGM_Play_Fx_HDD_1>右足確認
+<BGM_BGM_Play_Fx_HDD_1>運動機能　<BGM_BGM_Play_Fx_HDD_1>左足確認
+<BGM_BGM_Play_Fx_HDD_1>カメラモジュール起動
+<BGM_BGM_Play_Fx_HDD_1>マイクモジュール起動
+<BGM_BGM_Play_Fx_HDD_2>スピーカーモジュール起動<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_3>思考野ニ１２％ノ欠損確認<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>規定値以内ノ為　<BGM_BGM_Play_Fx_HDD_1>起動許可<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_2>ボクノ　名前あ　プラトン<bt_wait>
+<BGM_BGM_Play_Fx_HDD_1>プラトン１７２８<bt_wait>
+
+<BGM_BGM_Play_Fx_HDD_1>１７２８番目ノ　<BGM_BGM_Play_Fx_HDD_1>戦闘兵器
+</page>
+<BGM_BGM_M5095_S0025_N_end>
+
+
+
+
+

@@ -2,3 +2,10 @@
 OK/
 source_en.tar.gz
 Xenoblade-Translation-GUI.py
+/.local/
+/target/
+*.log
+*.tmp
+*.partial
+.DS_Store
+Thumbs.db

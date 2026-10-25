@@ -227,3 +227,16 @@ The patch is functional, and the full script is translated, but mistakes are sti
 - Main translation: `kyuubo`
 - Technical work, text preparation, repacking, builds, scripts, and TL check: `rsc-pl`
 - Additional TL check: `Mblack`
+
+
+## Building The Patch With The Rust Tool
+
+Unburger also has a standalone Rust application for editing the translation and building patch packages. You do not need to prepare every game archive by hand. The tool is designed to find an installed Steam copy of NieR:Automata on Windows or Linux, or let you select the game folder yourself, then prepare the original files needed for building. It can work with extracted PC files and includes support for reading CPK archives, although extraction from different game releases is still being tested.
+
+The Translation tab lets you work with individual entries rather than editing raw `.properties` files. You can search through the script, see the keys and formatting markers, and compare English lines with Japanese reference text when the matching files are available in `translations/JP/`. The same window also contains the build options, resource checks, and settings.
+
+Once the required files have been prepared, the builder can create packages for PC and Nintendo Switch. It keeps a local cache so you do not have to extract the same resources each time. Configuration, cached game files, and generated output stay inside the project's `.local/` directory, which is not included in the public repository. The game itself is not bundled with the patch; you need your own copy. Building the Switch version also requires the relevant original Switch UI resources.
+
+The Nintendo Switch package handles subtitles differently from the PC version. To keep cinematic playback and scripted scenes working correctly, the builder places the translated subtitle archives in a compact `romfs/data300.cpk` and includes an `exefs` patch for **Switch update 1.0.2** (Build ID `e43525f22282a47785aaed2dfff6e2e94d82b129`). Other translated resources and the Switch-specific interface files are packaged normally. The PC build is unaffected. Players do not need to extract or rebuild their game's CPK archives.
+
+The builder checks that all 208 translated subtitle files are present and verifies the completed Switch ZIP before publishing it. Support for other Switch updates has not been established. See [Nintendo Switch packaging](docs/NINTENDO_SWITCH.md) for compatibility and build details.
